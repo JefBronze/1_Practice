@@ -1,0 +1,28 @@
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleTypeAnonyme\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe.config
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csprojAssemblyReference.cache
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.exe
+G:\$ Orienté Objet II\CS-IG\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\bin\Debug\ExempleTypeAnonyme.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleTypeAnonyme v2\ExempleTypeAnonyme\obj\Debug\ExempleTypeAnonyme.pdb

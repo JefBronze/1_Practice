@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\bin\Debug\InsertRows.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\bin\Debug\InsertRows.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\bin\Debug\InsertRows.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\obj\Debug\InsertRows.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\obj\Debug\InsertRows.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\obj\Debug\InsertRows.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\InsertRows\InsertRows\obj\Debug\InsertRows.pdb

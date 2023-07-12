@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3DBAD73E-3CF9-4525-B4DC-4663613FF776}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="a.violationDemeter/Student.cs">
+    <Files>
+      <File FileName="b.SolutionDemeter/College.cs" Line="1" Column="1" />
+      <File FileName="b.SolutionDemeter/Course.cs" Line="1" Column="1" />
+      <File FileName="b.SolutionDemeter/Group.cs" Line="1" Column="1" />
+      <File FileName="b.SolutionDemeter/Program.cs" Line="1" Column="1" />
+      <File FileName="b.SolutionDemeter/Student.cs" Line="1" Column="1" />
+      <File FileName="a.violationDemeter/College.cs" Line="1" Column="1" />
+      <File FileName="a.violationDemeter/Course.cs" Line="1" Column="1" />
+      <File FileName="a.violationDemeter/Group.cs" Line="1" Column="1" />
+      <File FileName="a.violationDemeter/Program.cs" Line="1" Column="1" />
+      <File FileName="a.violationDemeter/Student.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleDemeter" expanded="True">
+            <Node name="a.violationDemeter" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+            <Node name="b.SolutionDemeter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.a.violationDemeter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

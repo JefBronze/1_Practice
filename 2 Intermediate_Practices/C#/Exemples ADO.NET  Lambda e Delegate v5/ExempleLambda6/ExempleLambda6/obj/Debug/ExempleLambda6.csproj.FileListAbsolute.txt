@@ -1,0 +1,14 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.exe.config
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\bin\Debug\ExempleLambda6.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda6\ExempleLambda6\obj\Debug\ExempleLambda6.pdb

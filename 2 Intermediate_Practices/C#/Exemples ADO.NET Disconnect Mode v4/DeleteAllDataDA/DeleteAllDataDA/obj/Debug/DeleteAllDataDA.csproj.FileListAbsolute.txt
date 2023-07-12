@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\bin\Debug\DeleteAllDataDA.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\bin\Debug\DeleteAllDataDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\bin\Debug\DeleteAllDataDA.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\obj\Debug\DeleteAllDataDA.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\obj\Debug\DeleteAllDataDA.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\obj\Debug\DeleteAllDataDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\DeleteAllDataDA\DeleteAllDataDA\obj\Debug\DeleteAllDataDA.pdb

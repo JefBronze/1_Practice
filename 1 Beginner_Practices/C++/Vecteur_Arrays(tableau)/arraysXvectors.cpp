@@ -1,0 +1,1 @@
+// https://www.geeksforgeeks.org/advantages-of-vector-over-array-in-c/#:~:text=Vector%20are%20implemented%20as%20dynamic,with%20primitive%20data%20type%20interface.&text=Size%20of%20arrays%20are%20fixed,are%20allocated%20on%20heap%20memory.

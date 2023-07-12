@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\bin\Debug\CreateTables.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\bin\Debug\CreateTables.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\bin\Debug\CreateTables.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\obj\Debug\CreateTables.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\obj\Debug\CreateTables.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\obj\Debug\CreateTables.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateTables\CreateTables\obj\Debug\CreateTables.pdb

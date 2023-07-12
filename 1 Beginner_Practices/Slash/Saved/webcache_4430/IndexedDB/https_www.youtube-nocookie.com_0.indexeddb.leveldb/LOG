@@ -1,0 +1,15 @@
+2023/05/29-22:09:37.010 748c Reusing MANIFEST C:/Users/Jeferson/Downloads/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-22:09:37.010 748c Recovering log #10
+2023/05/29-22:09:37.011 748c Reusing old log C:/Users/Jeferson/Downloads/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2023/05/29-22:31:39.801 2150 Level-0 table #14: started
+2023/05/29-22:31:39.823 2150 Level-0 table #14: 190 bytes OK
+2023/05/29-22:31:39.826 2150 Delete type=0 #10
+2023/05/29-22:31:39.826 2150 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/29-22:31:39.827 2150 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/05/29-22:31:39.827 2150 Compacting 1@1 + 1@2 files
+2023/05/29-22:31:39.842 2150 Generated table #15@1: 18 keys, 534 bytes
+2023/05/29-22:31:39.842 2150 Compacted 1@1 + 1@2 files => 534 bytes
+2023/05/29-22:31:39.844 2150 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/29-22:31:39.845 2150 Delete type=2 #5
+2023/05/29-22:31:39.845 2150 Delete type=2 #14
+2023/05/29-22:31:39.846 2150 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)

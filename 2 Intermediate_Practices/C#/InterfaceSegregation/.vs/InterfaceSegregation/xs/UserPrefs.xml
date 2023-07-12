@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{59774F4D-8684-4D73-8788-B356EA66176A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceSegregationViolation/Triangle.cs">
+    <Files>
+      <File FileName="InterfaceSegregation/Cube.cs" Line="10" Column="6" />
+      <File FileName="InterfaceSegregation/IShape2D.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregation/IShape3D.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregation/Program.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregation/Rectangle.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregation/Triangle.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregationViolation/Cube.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregationViolation/IShape.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregationViolation/Program.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregationViolation/Rectangle.cs" Line="1" Column="1" />
+      <File FileName="InterfaceSegregationViolation/Triangle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceSegregation" expanded="True">
+            <Node name="InterfaceSegregation" expanded="True" />
+            <Node name="InterfaceSegregationViolation" expanded="True">
+              <Node name="Triangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InterfaceSegregationViolation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

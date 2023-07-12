@@ -1,0 +1,14 @@
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.exe.config
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.csprojAssemblyReference.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\bin\Debug\ExempleLambda5.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda5\ExempleLambda5\obj\Debug\ExempleLambda5.pdb

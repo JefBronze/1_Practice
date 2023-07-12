@@ -1,0 +1,35 @@
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\bin\Debug\ExempleLINQ05.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\obj\Debug\ExempleLINQ05.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\obj\Debug\ExempleLINQ05.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\obj\Debug\ExempleLINQ05.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ05\ExempleLINQ05\obj\Debug\ExempleLINQ05.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe.config
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csprojAssemblyReference.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe.config
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\bin\Debug\ExempleLINQ05.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ05 (orderby)\ExempleLINQ05\obj\Debug\ExempleLINQ05.pdb

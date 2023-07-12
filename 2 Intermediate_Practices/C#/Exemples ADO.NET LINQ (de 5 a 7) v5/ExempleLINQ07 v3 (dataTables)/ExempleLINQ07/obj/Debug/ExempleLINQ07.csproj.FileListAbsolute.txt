@@ -1,0 +1,49 @@
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ07\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 5 a 7)\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 5 a 7) v3\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v4\ExempleLINQ07 v2 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe.config
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.exe
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\bin\Debug\ExempleLINQ07.pdb
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csprojAssemblyReference.cache
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.exe
+E:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 5 a 7) v5\ExempleLINQ07 v3 (dataTables)\ExempleLINQ07\obj\Debug\ExempleLINQ07.pdb

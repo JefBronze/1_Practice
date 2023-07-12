@@ -1,0 +1,21 @@
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\bin\Debug\ExerciceLambda.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\bin\Debug\ExerciceLambda.exe
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\bin\Debug\ExerciceLambda.pdb
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\obj\Debug\ExerciceLambda.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\obj\Debug\ExerciceLambda.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\obj\Debug\ExerciceLambda.exe
+C:\visual studio 2015\CS-LS-ADO\ExerciceLambda\ExerciceLambda\obj\Debug\ExerciceLambda.pdb
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\bin\Debug\ExerciceLambda.exe.config
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\bin\Debug\ExerciceLambda.exe
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\bin\Debug\ExerciceLambda.pdb
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\obj\Debug\ExerciceLambda.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\obj\Debug\ExerciceLambda.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\obj\Debug\ExerciceLambda.exe
+F:\C# ADO.NET IG-2\CS-ADO-IG\Exemples ADO.NET  Lambda e Delegate\ExerciceLambda - Copy\ExerciceLambda\obj\Debug\ExerciceLambda.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\bin\Debug\ExerciceLambda.exe.config
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\bin\Debug\ExerciceLambda.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\bin\Debug\ExerciceLambda.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\obj\Debug\ExerciceLambda.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\obj\Debug\ExerciceLambda.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\obj\Debug\ExerciceLambda.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExerciceLambda v2\ExerciceLambda\obj\Debug\ExerciceLambda.pdb

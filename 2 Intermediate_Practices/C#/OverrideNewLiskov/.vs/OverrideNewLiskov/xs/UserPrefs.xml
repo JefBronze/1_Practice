@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4E3238EA-18AE-4753-8B76-32508C08ABA7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="B1.NatPaireSolution-Hide/Paire.cs">
+    <Files>
+      <File FileName="B1.NatPaireSolution-Hide/Nat.cs" Line="1" Column="1" />
+      <File FileName="B1.NatPaireSolution-Hide/Paire.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverrideNewLiskov" expanded="True">
+            <Node name="B1.NatPaireSolution-Hide" expanded="True">
+              <Node name="Paire.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.A1.MauvaiseHeritage PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

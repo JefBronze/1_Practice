@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\bin\Debug\DropTables.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\bin\Debug\DropTables.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\bin\Debug\DropTables.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\obj\Debug\DropTables.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\obj\Debug\DropTables.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\obj\Debug\DropTables.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropTables\DropTables\obj\Debug\DropTables.pdb

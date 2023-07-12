@@ -1,0 +1,9 @@
+The workflow in the code is as follows:
+
+It makes a request to the EIA API to get data about oil prices using the function get_eia_data.
+
+It processes this data to calculate the average price using the function calculate_average_price.
+
+It then feeds this average price into a prompt for GPT-4 (GPT-3.5-turbo in reality, as GPT-4 is not available at the time of my knowledge cutoff in September 2021) using the function ask_gpt4.
+
+In this function, it creates a list of message objects with the roles "system", "user", and "assistant". The assistant's message contains the average price calculated earlier. This is a simulated conversation that is passed to openai.ChatCompletion.create.

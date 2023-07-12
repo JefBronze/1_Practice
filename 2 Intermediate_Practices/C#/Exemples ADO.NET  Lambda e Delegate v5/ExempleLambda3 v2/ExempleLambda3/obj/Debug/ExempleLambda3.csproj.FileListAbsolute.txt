@@ -1,0 +1,21 @@
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.exe.config
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.csprojAssemblyReference.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\bin\Debug\ExempleLambda3.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda3\ExempleLambda3\obj\Debug\ExempleLambda3.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\bin\Debug\ExempleLambda3.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\bin\Debug\ExempleLambda3.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\bin\Debug\ExempleLambda3.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\obj\Debug\ExempleLambda3.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\obj\Debug\ExempleLambda3.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\obj\Debug\ExempleLambda3.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda3 v2\ExempleLambda3\obj\Debug\ExempleLambda3.pdb

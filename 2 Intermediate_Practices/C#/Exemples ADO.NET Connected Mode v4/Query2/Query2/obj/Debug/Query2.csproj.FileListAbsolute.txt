@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\bin\Debug\Query2.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\bin\Debug\Query2.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\bin\Debug\Query2.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\obj\Debug\Query2.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\obj\Debug\Query2.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\obj\Debug\Query2.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\Query2\Query2\obj\Debug\Query2.pdb

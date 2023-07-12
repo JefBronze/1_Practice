@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3D734262-8EBE-4187-9FC5-715A8995E3EC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer/Publisher.cs">
+    <Files>
+      <File FileName="Observer/AbstractPublisher.cs" />
+      <File FileName="Observer/AbstractSubscriber.cs" />
+      <File FileName="Observer/Program.cs" />
+      <File FileName="Observer/Publisher.cs" Line="1" Column="1" />
+      <File FileName="Observer/Subscriber.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer" expanded="True">
+            <Node name="Observer" expanded="True">
+              <Node name="Publisher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

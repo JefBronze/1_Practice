@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertRows", "InsertRows\InsertRows.csproj", "{FCBC33DD-C376-4D65-A2F8-3F03CEEEBBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBC33DD-C376-4D65-A2F8-3F03CEEEBBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBC33DD-C376-4D65-A2F8-3F03CEEEBBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBC33DD-C376-4D65-A2F8-3F03CEEEBBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBC33DD-C376-4D65-A2F8-3F03CEEEBBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8305F701-BEC2-4AB8-B1C6-68128A2AF0A4}
+	EndGlobalSection
+EndGlobal

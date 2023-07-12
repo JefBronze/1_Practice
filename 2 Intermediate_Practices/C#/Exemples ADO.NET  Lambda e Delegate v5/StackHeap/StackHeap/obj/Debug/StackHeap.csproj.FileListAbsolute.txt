@@ -1,0 +1,7 @@
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\bin\Debug\StackHeap.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\bin\Debug\StackHeap.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\bin\Debug\StackHeap.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\obj\Debug\StackHeap.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\obj\Debug\StackHeap.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\obj\Debug\StackHeap.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\StackHeap\StackHeap\obj\Debug\StackHeap.pdb

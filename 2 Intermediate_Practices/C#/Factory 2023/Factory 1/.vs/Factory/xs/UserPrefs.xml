@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B9808F4E-F638-4B9C-935A-3C9C0A9C91FF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/Siamois.cs">
+    <Files>
+      <File FileName="Factory/Balinais.cs" Line="1" Column="1" />
+      <File FileName="Factory/Bengal.cs" Line="1" Column="1" />
+      <File FileName="Factory/Chat.cs" Line="1" Column="1" />
+      <File FileName="Factory/Exotic.cs" Line="1" Column="1" />
+      <File FileName="Factory/FabriqueChat.cs" Line="1" Column="1" />
+      <File FileName="Factory/Persan.cs" Line="1" Column="1" />
+      <File FileName="Factory/Program.cs" Line="1" Column="1" />
+      <File FileName="Factory/Siamois.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Factory" expanded="True">
+            <Node name="Factory" expanded="True">
+              <Node name="Siamois.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

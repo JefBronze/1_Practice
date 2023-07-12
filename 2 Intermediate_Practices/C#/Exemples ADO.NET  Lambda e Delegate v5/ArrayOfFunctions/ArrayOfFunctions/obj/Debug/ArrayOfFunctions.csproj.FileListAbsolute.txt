@@ -1,0 +1,7 @@
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\bin\Debug\ArrayOfFunctions.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\bin\Debug\ArrayOfFunctions.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\bin\Debug\ArrayOfFunctions.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\obj\Debug\ArrayOfFunctions.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\obj\Debug\ArrayOfFunctions.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\obj\Debug\ArrayOfFunctions.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET  Lambda e Delegate v3-work\ArrayOfFunctions\ArrayOfFunctions\obj\Debug\ArrayOfFunctions.pdb

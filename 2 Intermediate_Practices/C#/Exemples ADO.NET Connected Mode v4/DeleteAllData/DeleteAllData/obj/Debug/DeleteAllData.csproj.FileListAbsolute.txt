@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\bin\Debug\ClientsCommands v1.exe.config
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\bin\Debug\ClientsCommands v1.exe
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\bin\Debug\ClientsCommands v1.pdb
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v2.csproj.AssemblyReference.cache
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands_v1.Properties.Resources.resources
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v2.csproj.GenerateResource.cache
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v2.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v1.exe
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands v1.pdb
+C:\Users\Jeferson\OneDrive - College Andre-Grasset\Seance 3\Programmation Avancee de Base de Donnees\Codes Ramiro\ClientsCommands v2\ClientsCommands v1\obj\Debug\ClientsCommands_v2.Form1.resources

@@ -1,0 +1,7 @@
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\bin\Debug\ExempleLambda7.exe.config
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\bin\Debug\ExempleLambda7.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\bin\Debug\ExempleLambda7.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\obj\Debug\ExempleLambda7.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\obj\Debug\ExempleLambda7.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\obj\Debug\ExempleLambda7.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v5\ExempleLambda7\ExempleLambda7\obj\Debug\ExempleLambda7.pdb

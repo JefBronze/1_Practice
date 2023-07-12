@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B07A3006-5189-4D0D-94E8-E0605EEE7B96}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionMethods/MyExtensions.cs">
+    <Files>
+      <File FileName="ExtensionMethods/Program.cs" Line="27" Column="1" />
+      <File FileName="ExtensionMethods/MyExtensions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtensionMethods" expanded="True">
+            <Node name="ExtensionMethods" expanded="True">
+              <Node name="MyExtensions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExtensionMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

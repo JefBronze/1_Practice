@@ -1,0 +1,32 @@
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe.config
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.pdb
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.AssemblyReference.cache
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.SuggestedBindingRedirects.cache
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Form1.resources
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Properties.Resources.resources
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.GenerateResource.cache
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.CoreCompileInputs.cache
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.exe
+C:/Users/allan/Programmation BD Avancée/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.pdb
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe.config
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.pdb
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.AssemblyReference.cache
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.SuggestedBindingRedirects.cache
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Form1.resources
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Properties.Resources.resources
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.GenerateResource.cache
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.CoreCompileInputs.cache
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.exe
+C:/Users/Jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.pdb
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe.config
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.exe
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/bin/Debug/ClientsCommands v1.pdb
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.AssemblyReference.cache
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Form1.resources
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands_v1.Properties.Resources.resources
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.GenerateResource.cache
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.csproj.CoreCompileInputs.cache
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.exe
+/Users/jeferson/OneDrive - College Andre-Grasset/Seance 3/Programmation Avancee de Base de Donnees/Codes Ramiro/ClientsCommands v1/ClientsCommands v1/obj/Debug/ClientsCommands v1.pdb

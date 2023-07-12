@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ED213A5C-C086-437C-9815-313E31683ABD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientsCommands v1/Form1.cs">
+    <Files>
+      <File FileName="ClientsCommands v1/Form1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClientsCommands v1" expanded="True">
+            <Node name="ClientsCommands v1" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClientsCommands_220v1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,35 @@
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe.config
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csprojAssemblyReference.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe.config
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csprojAssemblyReference.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\bin\Debug\ExempleLambda2.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda2\ExempleLambda2\obj\Debug\ExempleLambda2.pdb

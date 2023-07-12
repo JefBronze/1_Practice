@@ -1,0 +1,28 @@
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\bin\Debug\ExempleLambda4.exe.config
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\bin\Debug\ExempleLambda4.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\bin\Debug\ExempleLambda4.pdb
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\obj\Debug\ExempleLambda4.csprojAssemblyReference.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\obj\Debug\ExempleLambda4.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\obj\Debug\ExempleLambda4.exe
+G:\$ Orienté Objet II\CS-IG\ExempleLambda4\ExempleLambda4\obj\Debug\ExempleLambda4.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\bin\Debug\ExempleLambda4.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\bin\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\bin\Debug\ExempleLambda4.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\obj\Debug\ExempleLambda4.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\obj\Debug\ExempleLambda4.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\obj\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v2\ExempleLambda4 (cloture)\ExempleLambda4\obj\Debug\ExempleLambda4.pdb
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe.config
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.pdb
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.csprojAssemblyReference.cache
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.exe
+E:\C# ADO.NET IG-2022\Exemples ADO.NET  Lambda e Delegate v3\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\bin\Debug\ExempleLambda4.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET  Lambda e Delegate v4\ExempleLambda4 (cloture) v2\ExempleLambda4\obj\Debug\ExempleLambda4.pdb

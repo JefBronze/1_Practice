@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\bin\Debug\DropDatabase.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\obj\Debug\DropDatabase.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\DropDatabase\DropDatabase\obj\Debug\DropDatabase.pdb
